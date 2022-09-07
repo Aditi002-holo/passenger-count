@@ -15,5 +15,6 @@ function increment() {
 function save() {
     let saveCount = count + " - ";
     saveEle.textContent += saveCount;
-    console.log(count);
+    count = 0;
+    countEle.textContent = count;
 }
