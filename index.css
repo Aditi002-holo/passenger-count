@@ -35,5 +35,6 @@ button {
 
 #save-btn {
     background: darkgreen;
+    cursor: pointer;
 }
 
