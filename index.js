@@ -1,4 +1,4 @@
-
+// Fetch target elements
 let countEle = document.getElementById("count");
 let saveEle = document.getElementById("save-el");
 let count = 0;
